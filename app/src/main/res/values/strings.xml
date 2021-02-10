@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GodotFacebook</string>
+    <string name="facebook_app_id">!FBAPPID!</string>
+    <string name="fb_login_protocol_scheme">fb!FBAPPID!</string>
+</resources>
